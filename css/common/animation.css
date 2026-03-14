@@ -294,6 +294,9 @@
   0% {
     width: 0;
   }
+  50% {
+    width: 50%;
+  }
   100% {
     width: 100%;
   }
@@ -301,6 +304,9 @@
 @-webkit-keyframes expand-width-to-right {
   0% {
     width: 0;
+  }
+  50% {
+    width: 50%;
   }
   100% {
     width: 100%;
@@ -310,6 +316,9 @@
   0% {
     width: 0;
   }
+  50% {
+    width: 50%;
+  }
   100% {
     width: 100%;
   }
@@ -317,6 +326,9 @@
 @keyframes expand-width-to-right {
   0% {
     width: 0;
+  }
+  50% {
+    width: 50%;
   }
   100% {
     width: 100%;
