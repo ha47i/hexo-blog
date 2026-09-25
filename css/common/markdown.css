@@ -31,14 +31,6 @@
 .markdown ol li {
   margin: 0.5em 0;
 }
-.markdown ul li:has(ul),
-.markdown ol li:has(ul) {
-  margin: 1em 0;
-}
-.markdown ul li:has(ol),
-.markdown ol li:has(ol) {
-  margin: 1em 0;
-}
 .markdown ul ul >li,
 .markdown ol ul >li,
 .markdown ul ol >li,
